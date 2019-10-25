@@ -1,0 +1,3 @@
+criss
+
+fcrackzip -u -D -p '/usr/share/wordlists/rockyou.txt' numbers.zip

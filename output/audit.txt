@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon Oct 21 19:19:24 2019
+Invocation: foremost -i rs3.jpg 
+Output directory: /home/Document/richi-challenge/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: rs3.jpg
+Start: Mon Oct 21 19:19:24 2019
+Length: 926 KB (948548 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     926 KB 	          0 	 
+Finish: Mon Oct 21 19:19:24 2019
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Mon Oct 21 19:19:24 2019

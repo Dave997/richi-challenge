@@ -1,0 +1,12 @@
+4x bzip2
+3x gz
+1x bzip2
+2x tar
+1x zip
+
+
+zip -> unzip 
+xz  -> unxz
+bzip2 -> bunzip2
+gzip -> gunzip
+zip + pass -> unzip
